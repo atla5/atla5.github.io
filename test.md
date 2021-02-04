@@ -1,6 +1,6 @@
 ---
-layout: post
-title: test
+title: Test
+layout: page
 ---
 
 This is a test page
